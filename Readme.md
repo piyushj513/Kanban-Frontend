@@ -55,3 +55,6 @@ Click on the "Logout" button to log out of your account.
 The Kanban methodology for project management.
 Chakra UI and React for building the frontend UI.
 Django and Django REST framework for the backend API.
+
+![Light Mode](Image1)
+![Dark Mode](Image2)
