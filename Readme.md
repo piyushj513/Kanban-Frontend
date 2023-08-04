@@ -56,5 +56,5 @@ The Kanban methodology for project management.
 Chakra UI and React for building the frontend UI.
 Django and Django REST framework for the backend API.
 
-![Light Mode](Image1.png?raw=true)
-![Dark Mode](Image2.png?raw=true)
+![Light Mode](Image1.png)
+![Dark Mode](Image2.png)
