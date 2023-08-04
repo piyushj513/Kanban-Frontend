@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200..900&display=swap");
+* {
+  font-family: "Inter";
+  font-style: normal;
+}
+.modal-button {
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter;
+  font-size: 12px !important;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  height: 15px;
+  margin-bottom: 7px;
+  margin-top: 12px;
+}
+.modal-input {
+  color: #333;
+  font-family: Inter;
+  font-size: 12px !important;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  height: 15px;
+}
